@@ -1,0 +1,12 @@
+ls = 파일 출력
+touch abc.txt = txt 파일 만들기
+키보드 위쪽 화살표 = 이전 명령어
+cat abc.txt = 뭐 써있나. 탭 누르면 자동완성
+git init
+git status
+ls -a = 숨긴폴더?? 보기
+cd 경로명/ cd ..
+git add
+git config --global user.email "you@example.com"
+git config --global user.name "you"
+git config list===
