@@ -8,6 +8,7 @@ git reset --hard HEAD~최근 커밋부터 삭제할 갯수
 git log --online 	
 git fetch -- 원격에서 바뀐게있나 확인 origin 사라짐
 git pull --원격에 있는것 가져오기
+git log --oneline --graph
 
 vidsffs
 dfgfdgdfg
