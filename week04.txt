@@ -4,3 +4,5 @@ git reset --hard HEAD~최근 커밋부터 삭제할 갯수
 git log --online 	
 git fetch
 git pull
+
+vidsffs
